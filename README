@@ -1,0 +1,21 @@
+
+Recommendations Systems are used for making product recommendations for numerous applications.
+Eg: Online shopping, suggesting web sites to read, or suggesting music, movies, books to people. 
+Recommendation systems search for people who share tastes and make automatic recommendations based on items that similar people have an affinity towards.
+
+Amazon (Books, Items), Pandora/Spotify (Music), Google (News, Search), YouTube (Videos) are live examples where recommendation systems are made us of.
+Content-Based Recommenders make use of the similarity of the items to make recommendations.
+Collaborative filtering produces recommendations based on the knowledge of users’ liking to a particular item.
+
+The data sets used are two parts of the MovieLens dataset, to build a model to recommend movies to users. This data has been collected by the GroupLens Research Project at the University of Minnesota. 
+
+For Content-based method, we have used:
+1,000,000 ratings (1-5) from 6040 users on 3900 movies in the year 2000
+Demographic information of the users (age, gender, occupation, etc.)
+
+For Collaborative Filtering-based method, we have used:
+100,000 ratings (1-5) from 943 users on 1682 movies in the year 1998 
+Demographic information of the users (age, gender, occupation, etc.).
+
+We have used a smaller data set for collaborative filtering as this method requires a lot of processing power that is not available on a desktop / laptop.
+
