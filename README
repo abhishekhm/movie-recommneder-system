@@ -15,7 +15,7 @@ Demographic information of the users (age, gender, occupation, etc.)
 
 For Collaborative Filtering-based method, we have used:
 100,000 ratings (1-5) from 943 users on 1682 movies in the year 1998 
-Demographic information of the users (age, gender, occupation, etc.).
+Demographic information of the users (age, gender, occupation, etc.)
 
 We have used a smaller data set for collaborative filtering as this method requires a lot of processing power that is not available on a desktop / laptop.
 
